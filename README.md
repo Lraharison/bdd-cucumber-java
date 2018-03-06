@@ -1,1 +1,1 @@
-# bdd-cucumber-java
+# Faire du BDD avec cucumber
